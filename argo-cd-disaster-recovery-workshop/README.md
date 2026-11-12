@@ -44,3 +44,5 @@ We will guide you when to start Part 0 - verifying the setup.
 [Part 0](docs/00-verify-setup.md)
 
 Facilitators: see [docs/facilitator.md](docs/facilitator.md).
+
+Demo: [what good looks like](https://drive.google.com/file/d/1FWwnE3ynPPsxJCqmIH31lfIaIZiwXQEt/view?usp=sharing) (video on Google Drive).
