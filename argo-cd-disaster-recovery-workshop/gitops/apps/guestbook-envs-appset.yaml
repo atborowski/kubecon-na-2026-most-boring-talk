@@ -15,6 +15,7 @@ spec:
   generators:
     - list:
         elements:
+          - env: qa
           - env: dev
           - env: prod
   template:
